@@ -1,6 +1,8 @@
 # CLEP Mathematics Prep
 ## Lessons, practice and structured review
 
+**Project dates: September 2026 – September 2026**
+
 CLEP Mathematics Prep helps students organize preparation for the CLEP College Mathematics exam through lessons, practice, mastery tracking and spaced review. Students are using the application for exam preparation.
 
 **Context:** Individually developed education application. Student use is confirmed; exam pass rates and learning gains have not been measured.
